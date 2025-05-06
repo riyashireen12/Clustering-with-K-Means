@@ -60,10 +60,6 @@ It measures how similar a point is to its own cluster vs. others. A value close 
 
 ## 🛠️ How to Run
 
-```bash
-# Clone the repo
-git clone <your-repo-link>
-
 # Open the notebook
 jupyter notebook Clustering_with_K_Means.ipynb
 
